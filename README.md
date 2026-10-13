@@ -1,2 +1,5 @@
 # Web page Jeojildo Pereira web page
-## To share my profile to otherss
+## To share my :
+### Education
+### Publications
+### Subjects
