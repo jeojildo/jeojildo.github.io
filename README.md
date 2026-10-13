@@ -1,3 +1,1 @@
-## Web page Jeojildo Pereira web page
-### To share my, Education, Research interest, publications, Subjects and others
-### And also my contact
+Web page Jeojildo Pereira web page, to share my, Education, Research interest, publications, Subjects and others.
