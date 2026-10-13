@@ -2,37 +2,57 @@
 <head>
     <title> Jeojildo Pereira Webpage</title>
     <style>
+        .container {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
         .image img{
-            width: 200px;
+            width: 100px;
             height: auto;
+            border-radius: 50%;
+            object-fit: cover;
+            border:4px solid #ddd;
+        }
+        .name h4{
+            font-size: 28px;
+            margin: 0;
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to Jeojildo page </h1> 
+    <!--<h1>Welcome to Jeojildo page </h1> -->
     
-
     <div class="container">
         <div class="image">
-            <img src="/image/jpn1.jpg" alt="jeojildo image">
+            <img src="image/jpn1.jpeg" alt="jeojildo image">
         </div>
         <div class="name">
-            <h3>Jeojildo Pereira</h3>
+            <h4>Jeojildo Pereira</h4>
         </div>
     </div>
-
     <div class="container">
         <div class="education">
-            <h2>Education</h2>
+            <h4>Education</h4>
             <ul>
                 <li>Master em Computer Science, PPGCOMP, ICEN, UFPA, 2026 </li>
                 <li>Sarjana komputer, Teknik Informatika 2012, UTDI, Yogyakarta, Indonesia.</li>
                 <li>Bacharel at Technical Computer and Informatics (TCI) IPDC, Dili, Timor-Leste.</li>
             </ul>
-
         </div>
     </div>
 
+        <div class="container">
+        <div class="researchs">
+            <h4>Researchs Interest</h4>
+            <ul>
+                <li>Software engineering</li>
+                <li>Data Science</li>
+                <li>Data Mining and Knowledge Discovery</li>
+                <li>Network Science and Graph Mining</li>
+            </ul>
+        </div>
+    </div>
 
 </body>
 </html>
